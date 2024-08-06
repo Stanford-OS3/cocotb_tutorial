@@ -12,9 +12,7 @@
 </h2>
 <p>
   run the following command: <br>
-  <code>
-    pip install cocotb
-  </code>
+  <code> pip install cocotb </code>
 </p>
 
 <h2> 
