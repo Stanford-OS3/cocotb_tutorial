@@ -11,7 +11,7 @@
   Installing cocotb
 </h2>
 <p>
-  run the following command:
+  run the following command: <br>
   <code>
     pip install cocotb
   </code>
