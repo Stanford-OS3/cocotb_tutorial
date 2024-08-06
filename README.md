@@ -2,7 +2,24 @@
 
 <p> this page is currently being updated </p>
 
-<h2> Installing Verilator </h2>
+
+<p> 
+  Hi, welcome. This GitHub repository is made to help you write your testbenches in python, so you can verify designs.
+</p>
+
+<h2>
+  Installing cocotb
+</h2>
+<p>
+  run the following command:
+  <code>
+    pip install cocotb
+  </code>
+</p>
+
+<h2> 
+  Installing Verilator 
+</h2>
 <p> 
   you don't have to use verilator, but if you are, you may encounter issues with the installation process.
   I used <a href="https://k0nze.dev/posts/verilog-apple-silicon/"> this link </a> to give a rough idea of
