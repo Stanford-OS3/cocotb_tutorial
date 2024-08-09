@@ -1,6 +1,6 @@
 <h1> How to use cocotb for verification </h1>
 
-<p> this page is currently being updated by Stan, and isn't finished yet. I am still working this out </p>
+<p> this page is currently being updated by Stan, and isn't finished yet. I am still working this out because of some issues with Apple Silicon </p>
 
 
 <p> 
